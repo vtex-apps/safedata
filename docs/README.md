@@ -1,8 +1,8 @@
 
 
-# Querying personal MasterData Information with SafeData
+# SafeData
 
-The SafeData app provides an easy to use, configurable middleware to retrieve and save MasterData (V1 & V2) information directly on the front-end, or through another back-end.
+The SafeData app queries personal MasterData information. An easy to use, configurable middleware to retrieve and save MasterData (V1 & V2) information directly on the front-end, or through another back-end.
 
 It works by acting as an validation layer on top of MasterData API to ensure the data being queried belongs to the user executing the action.
 
